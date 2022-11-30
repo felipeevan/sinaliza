@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1028965287782-vab8qteufjmkpeg9v1jb5aanf2fuu41l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1028965287782-vab8qteufjmkpeg9v1jb5aanf2fuu41l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8ATMdTQYSl-vyOs2PW3AXigLu92FxXT4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1028965287782</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.aplicativoLibras</string>
+	<key>PROJECT_ID</key>
+	<string>aplicativo-libras</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aplicativo-libras.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1028965287782:ios:9c793f06417f6de9da6aa7</string>
+</dict>
+</plist>
